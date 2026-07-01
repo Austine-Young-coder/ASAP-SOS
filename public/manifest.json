@@ -1,0 +1,17 @@
+{
+  "short_name": "ASAP-SOS",
+  "name": "ASAP-SOS Emergency Response Nigeria",
+  "description": "Instant emergency response for Nigeria — call police, ambulance, fire, DSS. Send community SOS alerts.",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#D50000",
+  "orientation": "portrait",
+  "categories": ["utilities", "lifestyle"],
+  "lang": "en-NG",
+  "scope": "/"
+}
