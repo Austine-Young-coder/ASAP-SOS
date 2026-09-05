@@ -1,4 +1,6 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="14" fill="#0B0E14"/>
-  <circle cx="32" cy="32" r="18" fill="#D7263D"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- New drawing -->
+  <rect x="134.32" y="169.06" width="339.03" height="332.9" rx="8" fill="#000000" transform="translate(-50.94 -77.51)"/>
+  <circle cx="256" cy="256" r="120" fill="#ff0038"/>
+  <text x="245.76" y="245.76" font-family="Arial" font-size="51.2" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-weight="700" transform="translate(12.23 35.84)">ASAP SOS</text>
 </svg>
